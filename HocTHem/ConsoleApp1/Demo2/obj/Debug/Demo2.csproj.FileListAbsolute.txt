@@ -1,0 +1,6 @@
+D:\HocTHem\ConsoleApp1\Demo2\bin\Debug\Demo2.exe.config
+D:\HocTHem\ConsoleApp1\Demo2\bin\Debug\Demo2.exe
+D:\HocTHem\ConsoleApp1\Demo2\bin\Debug\Demo2.pdb
+D:\HocTHem\ConsoleApp1\Demo2\obj\Debug\Demo2.csproj.CoreCompileInputs.cache
+D:\HocTHem\ConsoleApp1\Demo2\obj\Debug\Demo2.exe
+D:\HocTHem\ConsoleApp1\Demo2\obj\Debug\Demo2.pdb

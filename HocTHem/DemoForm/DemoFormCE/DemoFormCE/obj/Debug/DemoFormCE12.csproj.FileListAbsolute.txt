@@ -1,0 +1,14 @@
+D:\HocTHem\DemoForm\DemoFormCE\DemoFormCE\bin\Debug\DemoFormCE.exe.config
+D:\HocTHem\DemoForm\DemoFormCE\DemoFormCE\bin\Debug\DemoFormCE.exe
+D:\HocTHem\DemoForm\DemoFormCE\DemoFormCE\bin\Debug\DemoFormCE.pdb
+D:\HocTHem\DemoForm\DemoFormCE\DemoFormCE\obj\Debug\DemoFormCE12.csprojAssemblyReference.cache
+D:\HocTHem\DemoForm\DemoFormCE\DemoFormCE\obj\Debug\DemoFormCE.frmMain.resources
+D:\HocTHem\DemoForm\DemoFormCE\DemoFormCE\obj\Debug\DemoFormCE.Properties.Resources.resources
+D:\HocTHem\DemoForm\DemoFormCE\DemoFormCE\obj\Debug\DemoFormCE12.csproj.GenerateResource.cache
+D:\HocTHem\DemoForm\DemoFormCE\DemoFormCE\obj\Debug\DemoFormCE12.csproj.CoreCompileInputs.cache
+D:\HocTHem\DemoForm\DemoFormCE\DemoFormCE\obj\Debug\DemoFormCE.exe
+D:\HocTHem\DemoForm\DemoFormCE\DemoFormCE\obj\Debug\DemoFormCE.pdb
+D:\HocTHem\DemoForm\DemoFormCE\DemoFormCE\obj\Debug\DemoFormCE.Bai2.resources
+D:\HocTHem\DemoForm\DemoFormCE\DemoFormCE\obj\Debug\DemoFormCE.bai3.resources
+D:\HocTHem\DemoForm\DemoFormCE\DemoFormCE\obj\Debug\DemoFormCE.frmLogin.resources
+D:\HocTHem\DemoForm\DemoFormCE\DemoFormCE\obj\Debug\DemoFormCE.FrmChinh.resources
