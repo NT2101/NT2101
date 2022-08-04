@@ -1,0 +1,431 @@
+c:\users\hp\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\QuizSystem.exe.config
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\QuizSystem.exe
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\QuizSystem.pdb
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\DevExpress.Utils.v15.2.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraBars.v15.2.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraBars.v15.2.xml
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\obj\Debug\QuizSystem.csprojResolveAssemblyReference.cache
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\obj\Debug\QuizSystem.LoginGUI.resources
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\obj\Debug\QuizSystem.MainGUI.resources
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\obj\Debug\QuizSystem.Properties.Resources.resources
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\obj\Debug\QuizSystem.WelcomeGUI.resources
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\obj\Debug\QuizSystem.csproj.GenerateResource.Cache
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\obj\Debug\QuizSystem.exe.licenses
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\obj\Debug\QuizSystem.exe
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\obj\Debug\QuizSystem.pdb
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\obj\Debug\QuizSystem.InputInformationGUI.resources
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\DevExpress.Office.v15.2.Core.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\DevExpress.Office.v15.2.Core.xml
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\obj\Debug\QuizSystem.QuestionGUI.resources
+C:\Users\HP\documents\visual studio 2015\Projects\QuizSystem\QuizSystem\obj\Debug\QuizSystem.QuizGUI.resources
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\QuizSystem.exe.config
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\obj\Debug\QuizSystem.exe
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\obj\Debug\QuizSystem.pdb
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\obj\Debug\QuizSystem.csprojResolveAssemblyReference.cache
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\obj\Debug\QuizSystem.LoginGUI.resources
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\obj\Debug\QuizSystem.MainGUI.resources
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\obj\Debug\QuizSystem.Properties.Resources.resources
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\obj\Debug\QuizSystem.WelcomeGUI.resources
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\obj\Debug\QuizSystem.csproj.GenerateResource.Cache
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\obj\Debug\QuizSystem.exe.licenses
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\QuizSystem.exe
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\QuizSystem.pdb
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\DevExpress.Data.v15.1.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraBars.v15.1.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\DevExpress.Office.v15.1.Core.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraBars.v15.1.xml
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\DevExpress.Office.v15.1.Core.xml
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraScheduler.v15.1.Core.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraScheduler.v15.1.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraScheduler.v15.1.xml
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraScheduler.v15.1.Core.xml
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.XtraScheduler.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.XtraScheduler.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.XtraScheduler.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.XtraScheduler.v15.1.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\obj\Debug\QuizSystem.CreateQuiz.resources
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\obj\Debug\QuizSystem.DoQuizGUI.resources
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\obj\Debug\QuizSystem.SelectTestSubjectGUI.resources
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\obj\Debug\QuizSystem.CreateTestQuiz.resources
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\obj\Debug\QuizSystem.ViewQuizGUI.resources
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\obj\Debug\QuizSystem.ExamList.resources
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\obj\Debug\QuizSystem.ViewListExam.resources
+C:\Users\HP\Downloads\QuizSystem\QuizSystem\obj\Debug\QuizSystem.ViewRoom.resources
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\QuizSystem.exe.config
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\QuizSystem.exe
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\QuizSystem.pdb
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\DevExpress.Data.v15.1.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraBars.v15.1.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraScheduler.v15.1.Core.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraScheduler.v15.1.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\DevExpress.Office.v15.1.Core.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraBars.v15.1.xml
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraScheduler.v15.1.xml
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraScheduler.v15.1.Core.xml
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\DevExpress.Office.v15.1.Core.xml
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.XtraScheduler.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.XtraScheduler.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.XtraScheduler.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.XtraScheduler.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\obj\Debug\QuizSystem.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\obj\Debug\QuizSystem.CreateQuiz.resources
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\obj\Debug\QuizSystem.CreateTestQuiz.resources
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\obj\Debug\QuizSystem.DoQuizGUI.resources
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\obj\Debug\QuizSystem.ExamList.resources
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\obj\Debug\QuizSystem.LoginGUI.resources
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\obj\Debug\QuizSystem.MainGUI.resources
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\obj\Debug\QuizSystem.Properties.Resources.resources
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\obj\Debug\QuizSystem.SelectTestSubjectGUI.resources
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\obj\Debug\QuizSystem.ViewListExam.resources
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\obj\Debug\QuizSystem.ViewQuizGUI.resources
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\obj\Debug\QuizSystem.ViewRoom.resources
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\obj\Debug\QuizSystem.WelcomeGUI.resources
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\obj\Debug\QuizSystem.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\obj\Debug\QuizSystem.exe.licenses
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\obj\Debug\QuizSystem.exe
+C:\Users\HP\Documents\51403166_51403164\QuizSystem\QuizSystem\obj\Debug\QuizSystem.pdb
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\QuizSystem.exe.config
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\obj\Debug\QuizSystem.exe
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\obj\Debug\QuizSystem.pdb
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\QuizSystem.exe
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\QuizSystem.pdb
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\DevExpress.Data.v15.1.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraBars.v15.1.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraScheduler.v15.1.Core.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraScheduler.v15.1.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\DevExpress.Office.v15.1.Core.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraBars.v15.1.xml
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraScheduler.v15.1.xml
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraScheduler.v15.1.Core.xml
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\DevExpress.Office.v15.1.Core.xml
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.XtraScheduler.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.XtraScheduler.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.XtraScheduler.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.XtraScheduler.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\obj\Debug\QuizSystem.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\obj\Debug\QuizSystem.CreateQuiz.resources
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\obj\Debug\QuizSystem.CreateTestQuiz.resources
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\obj\Debug\QuizSystem.DoQuizGUI.resources
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\obj\Debug\QuizSystem.ExamList.resources
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\obj\Debug\QuizSystem.LoginGUI.resources
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\obj\Debug\QuizSystem.MainGUI.resources
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\obj\Debug\QuizSystem.Properties.Resources.resources
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\obj\Debug\QuizSystem.SelectTestSubjectGUI.resources
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\obj\Debug\QuizSystem.ViewListExam.resources
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\obj\Debug\QuizSystem.ViewQuizGUI.resources
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\obj\Debug\QuizSystem.ViewRoom.resources
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\obj\Debug\QuizSystem.WelcomeGUI.resources
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\obj\Debug\QuizSystem.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Các bài tập lớn - đồ án học kỳ này\Phân tích hướng đối tượng\Bài tập lớn\51403166\QuizSystem\QuizSystem\obj\Debug\QuizSystem.exe.licenses

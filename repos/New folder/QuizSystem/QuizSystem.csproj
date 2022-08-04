@@ -1,0 +1,438 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D8ECFD05-E169-45BA-8DF2-C6F5C4113FCE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QuizSystem</RootNamespace>
+    <AssemblyName>QuizSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v15.1.Core, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Sparkline.v15.1.Core, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGrid.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraNavBar.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraScheduler.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v15.1.Core, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CreateTestQuiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateTestQuiz.Designer.cs">
+      <DependentUpon>CreateTestQuiz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DTO\Account.cs" />
+    <Compile Include="CreateQuiz.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CreateQuiz.Designer.cs">
+      <DependentUpon>CreateQuiz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DoQuizGUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DoQuizGUI.Designer.cs">
+      <DependentUpon>DoQuizGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DTO\ExamList.cs" />
+    <Compile Include="DTO\Faculty.cs" />
+    <Compile Include="DTO\Lecturer.cs" />
+    <Compile Include="DTO\ListStudentDoQuiz.cs" />
+    <Compile Include="DTO\Question.cs" />
+    <Compile Include="DTO\Quiz.cs" />
+    <Compile Include="DTO\QuizDetail.cs" />
+    <Compile Include="DTO\Student.cs" />
+    <Compile Include="DTO\Subject.cs" />
+    <Compile Include="DTO\TestRoom.cs" />
+    <Compile Include="ExamList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ExamList.Designer.cs">
+      <DependentUpon>ExamList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginGUI.Designer.cs">
+      <DependentUpon>LoginGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainGUI.Designer.cs">
+      <DependentUpon>MainGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuizSystem.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QuizSystem.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="SelectTestSubjectGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectTestSubjectGUI.Designer.cs">
+      <DependentUpon>SelectTestSubjectGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlDataProcess.cs" />
+    <Compile Include="SqlManager.cs" />
+    <Compile Include="ViewListExam.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ViewListExam.Designer.cs">
+      <DependentUpon>ViewListExam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewQuizGUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ViewQuizGUI.Designer.cs">
+      <DependentUpon>ViewQuizGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewRoom.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ViewRoom.Designer.cs">
+      <DependentUpon>ViewRoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WelcomeGUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WelcomeGUI.Designer.cs">
+      <DependentUpon>WelcomeGUI.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CreateQuiz.resx">
+      <DependentUpon>CreateQuiz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateTestQuiz.resx">
+      <DependentUpon>CreateTestQuiz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoQuizGUI.resx">
+      <DependentUpon>DoQuizGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExamList.resx">
+      <DependentUpon>ExamList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginGUI.resx">
+      <DependentUpon>LoginGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainGUI.resx">
+      <DependentUpon>MainGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\DataSources\CauHoi.datasource" />
+    <None Include="QuizSystem.dbml.layout">
+      <DependentUpon>QuizSystem.dbml</DependentUpon>
+    </None>
+    <EmbeddedResource Include="SelectTestSubjectGUI.resx">
+      <DependentUpon>SelectTestSubjectGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewListExam.resx">
+      <DependentUpon>ViewListExam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewQuizGUI.resx">
+      <DependentUpon>ViewQuizGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewRoom.resx">
+      <DependentUpon>ViewRoom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WelcomeGUI.resx">
+      <DependentUpon>WelcomeGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="QuizSystem.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>QuizSystem.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Resources\32882-200. 16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blog.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DXP_dll_03_10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\password.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\password1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images. 32x32.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users_add 32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png 32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xzczxcc 16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\multiple-users-silhouette. 16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\asda.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back 16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reply-all-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\controls.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\share.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file-submit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shuffle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\questions.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customer-service.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exam.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\student.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\verification-of-delivery-list-clipboard-symbol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add 16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pencil 16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\circular-clock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exam %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\test.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exams.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sa_three.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dangnhap.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images. 32x321.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save-key-icon - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar-with-spring-binder-and-date-blocks.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customer-service1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\staff 16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\question.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\student %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exam1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left-chevron.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left-arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\right-arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\right-chevron.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\up-arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\student1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\test1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\student2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\learning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exam2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\power-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ađa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check-box.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\questions1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\question 32 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32v.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button-on-off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\website.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\123.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\question.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ađa1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chevron %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chevron.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exam %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\questions2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\test %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checklist.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

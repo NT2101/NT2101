@@ -1,0 +1,6 @@
+C:\Users\84867\source\repos\New folder\DAO\bin\Debug\DAO.dll
+C:\Users\84867\source\repos\New folder\DAO\bin\Debug\DAO.pdb
+C:\Users\84867\source\repos\New folder\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\84867\source\repos\New folder\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\84867\source\repos\New folder\DAO\obj\Debug\DAO.dll
+C:\Users\84867\source\repos\New folder\DAO\obj\Debug\DAO.pdb
